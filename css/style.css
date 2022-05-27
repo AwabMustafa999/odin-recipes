@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 40px;
+}
+
+a {
+    background-color: black;
+    text-decoration: none;
+    padding: 10px auto;
+    color: white;
+    height: auto;
+    width: auto;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.links{
+    padding-top: 10px;
+
+}
